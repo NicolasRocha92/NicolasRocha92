@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicolas, an <a href="https://linkedin.com/in/NicolasRocha92">IT Professional</a></h1>
 
-### Aspiring IT Support Specialist | Help Desk | Microsoft Azure | Active Directory
+### Aspiring IT Support Specialist | Azure | Active Directory
 
 I've been building my IT skills through hands-on projects involving troubleshooting, help desk ticketing systems, Windows administration, networking, cloud services, and user account management.
 
@@ -33,7 +33,7 @@ I'm currently looking for an entry-level IT Help Desk or IT Support position whe
 - **Cloud:** Microsoft Azure virtual machines, virtual networks, and storage
 - **Tools:** Remote Desktop, PowerShell, Wireshark, Event Viewer, Google Drive
 
-## 🤳Connect with me:
+## 🤳Connect With Me:
 
 [<img align="left" alt="NicolasRocha92 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
