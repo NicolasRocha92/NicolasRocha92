@@ -2,9 +2,9 @@
 
 ### Aspiring IT Support Specialist | Help Desk | Microsoft Azure | Active Directory
 
-I'm developing hands-on IT support skills through practical technical projects and labs. My projects focus on troubleshooting, help desk ticket management, Windows administration, networking, cloud services, and user access management.
+I've been building my IT skills through hands-on projects involving troubleshooting, help desk ticketing systems, Windows administration, networking, cloud services, and user account management.
 
-I'm pursuing an **entry-level IT Help Desk or IT Support** role where I can apply these skills and continue learning.
+I'm currently looking for an entry-level IT Help Desk or IT Support position where I can put these skills to use and continue learning.
 
 ## 👨‍💻 Information Technology Projects
 
